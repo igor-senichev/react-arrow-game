@@ -4,6 +4,7 @@
   width: 900px;
   margin: auto;
 }
+
 .column {
   flex-basis: 50%;
   padding: var(--spacing-large);
